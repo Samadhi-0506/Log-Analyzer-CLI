@@ -11,7 +11,7 @@ A simple Python CLI tool to analyze Nginx logs, extract error messages, and expo
 - ⏰ Schedule automatic analysis every N minutes
 - 🧠 Beginner-friendly CLI with `click`
 - 📁 Organized folders for logs and reports
-- 🇱🇰 Sinhala-English friendly documentation
+
 
 ---
 
